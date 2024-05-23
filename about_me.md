@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm a passionate Junior DevOps Engineer from Hyderabad, India. With nearly 2 years of hands-on experience, I thrive in dynamic DevOps environments where I can streamline operations and enhance system reliability.
 
+## 📈 GitHub Stats
+
+![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarundalai1999&show_icons=true&theme=radical)
+
 ## 🚀 Professional Journey
 
 ### Junior DevOps Engineer at Genpact (Dec 2022 – Present)
@@ -43,6 +47,8 @@ Welcome to my GitHub profile! I'm a passionate Junior DevOps Engineer from Hyder
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/tarun-dalai-674573138)
-- [GitHub](https://github.com/tarundalai1999)
-
-Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects or discuss DevOps practices.
+- [Facebook](https://www.facebook.com/Tarun.boss.1999/)
+- [Instagram](https://www.instagram.com/_tarun_dalai_001_/)
+- [Twitter (X)](https://x.com/BossTarun1999/)
+  
+Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects or discuss DevOps practices!
